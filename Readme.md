@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Егор Глебов](https://up.htmlacademy.ru/ecmascript/4/user/212499).
-* Наставник: `Неизвестно`.
+* Наставник: [Егор Глебов](https://up.htmlacademy.ru/ecmascript/4/user/212499).
 
 ---
 
